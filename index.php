@@ -1,3 +1,5 @@
 <?php
-    echo "Olá, mundo!"
+    echo "Olá, mundo nadaver2!"
+
+    echo "Olá, Thai!!!"
 ?>
